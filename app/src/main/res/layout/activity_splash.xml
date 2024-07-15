@@ -1,0 +1,21 @@
+<!--
+Nama : Muhammad Sheva Zulfiqar Arrizqi
+Kelas : AKB-UL1
+NIM : 10120748
+-->
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000">
+
+        <ImageView
+            android:id="@+id/ivSplashImage"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/splash_image"
+            android:scaleType="centerCrop" />
+
+    </RelativeLayout>
+</layout>
