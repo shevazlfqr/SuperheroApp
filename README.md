@@ -1,10 +1,4 @@
-Nama : Muhammad Sheva Zulfiqar Arrizqi
- 
-Kelas : AKB-UL1
- 
-NIM : 10120748
- 
-Supehero : Loki
+Task AKB
 
  
 Preview :
